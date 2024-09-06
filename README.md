@@ -14,9 +14,11 @@ Clone the Repository First, clone the reactfolio repository to your local machin
 
 
 
+
 Step 2:
 Navigate to the Repository Directory Navigate to the cloned repository directory:
 ![image](https://github.com/user-attachments/assets/abad582b-d7bd-4b94-92e2-cf07c61f0b4a)
+
 
 
 
@@ -28,9 +30,11 @@ Create a Dockerfile Create a Dockerfile in the root directory of the repository.
 
 
 
+
 Step 4:
 Build the Docker Image Next, build the Docker image using the following command:
 ![image](https://github.com/user-attachments/assets/2e8a2265-b667-4b0b-88a6-6a90751b857c)
+
 
 
 
@@ -42,6 +46,7 @@ Verify the Docker Image Verify that the Docker image was successfully built by l
 
 
 
+
 Step 6:
 Log in to Docker Hub Log in to your Docker Hub account using the following command:
 ![image](https://github.com/user-attachments/assets/29caf79c-7e1c-49fa-8d50-77f4c1d9e826)
@@ -49,8 +54,10 @@ Log in to Docker Hub Log in to your Docker Hub account using the following comma
 
 
 
+
 Step 7:
 Tag the Docker Image Tag the Docker image with your Docker Hub username and repository name:
+
 
 
 
@@ -62,8 +69,10 @@ Push the Docker Image to Docker Hub Finally, push the Docker image to your Docke
 
 
 
+
 Step 9:
 Verify the Pushed Image Log in to your Docker Hub account through the web interface and navigate to the Repositories tab. You should see your reactfolio repository listed with the latest tag.
+
 
 
 
